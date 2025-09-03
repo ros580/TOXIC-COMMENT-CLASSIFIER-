@@ -1,0 +1,2 @@
+print(predict_toxicity("This is the worst thing ever!"))
+print(predict_toxicity("Have a nice day, friend!"))
